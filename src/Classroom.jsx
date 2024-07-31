@@ -15,5 +15,5 @@ export const Classroom = () => {
 
     const {name, students} = useLoaderData();
 
-    return (<div>{name}</div>)
+    return (<h1>{name}</h1>)
 }

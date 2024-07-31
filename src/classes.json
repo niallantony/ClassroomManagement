@@ -1,0 +1,302 @@
+{
+  "classrooms": [
+    {
+      "key": "1",
+      "name": "Foundation English",
+      "students": [
+        {
+          "first": "Nayeong",
+          "last": "Park",
+          "subject": "Game and Video Contents",
+          "studentID": "682315026",
+          "year": 2
+        },
+        {
+          "first": "Jisoo",
+          "last": "Kim",
+          "subject": "Early Childhood Learning",
+          "studentID": "682315027",
+          "year": 3
+        },
+        {
+          "first": "Nayeong",
+          "last": "Joo",
+          "subject": "Hotel Food Management",
+          "studentID": "682315028",
+          "year": 3
+        },
+        {
+          "first": "Taeyoung",
+          "last": "Oh",
+          "subject": "Hospital Management",
+          "studentID": "682315029",
+          "year": 2
+        },
+        {
+          "first": "Jiwoo",
+          "last": "Choi",
+          "subject": "Hospital Management",
+          "studentID": "682315030",
+          "year": 1
+        },
+        {
+          "first": "Daehan",
+          "last": "Choi",
+          "subject": "Early Childhood Learning",
+          "studentID": "682315031",
+          "year": 1
+        },
+        {
+          "first": "Jiwoo",
+          "last": "Byeon",
+          "subject": "Hospital Management",
+          "studentID": "682315032",
+          "year": 3
+        },
+        {
+          "first": "Jisoo",
+          "last": "Park",
+          "subject": "Hospital Management",
+          "studentID": "682315033",
+          "year": 1
+        },
+        {
+          "first": "Wooyeon",
+          "last": "Joo",
+          "subject": "Architecture",
+          "studentID": "682315034",
+          "year": 1
+        },
+        {
+          "first": "Nayeong",
+          "last": "Byeon",
+          "subject": "Hair and Beauty",
+          "studentID": "682315035",
+          "year": 2
+        },
+        {
+          "first": "Seongmin",
+          "last": "Lee",
+          "subject": "Hotel Food Management",
+          "studentID": "682315036",
+          "year": 2
+        },
+        {
+          "first": "Taeyoung",
+          "last": "Lee",
+          "subject": "Architecture",
+          "studentID": "682315037",
+          "year": 2
+        },
+        {
+          "first": "Jiwoo",
+          "last": "Byeon",
+          "subject": "Hair and Beauty",
+          "studentID": "682315038",
+          "year": 1
+        },
+        {
+          "first": "Wooyeon",
+          "last": "Byeon",
+          "subject": "Hotel Food Management",
+          "studentID": "682315039",
+          "year": 2
+        }
+      ]
+    },
+    {
+      "key": "2",
+      "name": "Foundation English",
+      "students": [
+        {
+          "first": "Jisoo",
+          "last": "Oh",
+          "subject": "Information Security",
+          "studentID": "682315040",
+          "year": 2
+        },
+        {
+          "first": "Junhyeok",
+          "last": "Oh",
+          "subject": "Game and Video Contents",
+          "studentID": "682315041",
+          "year": 3
+        },
+        {
+          "first": "Wooyoung",
+          "last": "Oh",
+          "subject": "Hotel Food Management",
+          "studentID": "682315042",
+          "year": 1
+        },
+        {
+          "first": "Hyeji",
+          "last": "Park",
+          "subject": "Hair and Beauty",
+          "studentID": "682315043",
+          "year": 1
+        },
+        {
+          "first": "Taeyoung",
+          "last": "Byeon",
+          "subject": "Computer Engineering",
+          "studentID": "682315044",
+          "year": 2
+        },
+        {
+          "first": "Hyeji",
+          "last": "Byeon",
+          "subject": "Hair and Beauty",
+          "studentID": "682315045",
+          "year": 1
+        },
+        {
+          "first": "Jiwon",
+          "last": "Oh",
+          "subject": "Sports Rehabilitation",
+          "studentID": "682315046",
+          "year": 2
+        },
+        {
+          "first": "Seongmin",
+          "last": "Choi",
+          "subject": "Game and Video Contents",
+          "studentID": "682315047",
+          "year": 1
+        },
+        {
+          "first": "Wooyeon",
+          "last": "Choi",
+          "subject": "Game and Video Contents",
+          "studentID": "682315048",
+          "year": 1
+        },
+        {
+          "first": "Jongwoo",
+          "last": "Joo",
+          "subject": "Architecture",
+          "studentID": "682315049",
+          "year": 1
+        },
+        {
+          "first": "Byeongmin",
+          "last": "Kim",
+          "subject": "Civil Engineering",
+          "studentID": "682315050",
+          "year": 2
+        },
+        {
+          "first": "Wooyoung",
+          "last": "Joo",
+          "subject": "Information Security",
+          "studentID": "682315051",
+          "year": 2
+        },
+        {
+          "first": "Hyemi",
+          "last": "Oh",
+          "subject": "Early Childhood Learning",
+          "studentID": "682315052",
+          "year": 2
+        },
+        {
+          "first": "Wooyeon",
+          "last": "Lee",
+          "subject": "Early Childhood Learning",
+          "studentID": "682315053",
+          "year": 2
+        },
+        {
+          "first": "Junhyeok",
+          "last": "Joo",
+          "subject": "Game and Video Contents",
+          "studentID": "682315054",
+          "year": 2
+        },
+        {
+          "first": "Wooyeon",
+          "last": "Byeon",
+          "subject": "Architecture",
+          "studentID": "682315055",
+          "year": 2
+        }
+      ]
+    },
+    {
+      "key": "3",
+      "name": "Advanced English",
+      "students": [
+        {
+          "first": "Seojun",
+          "last": "Byeon",
+          "subject": "Civil Engineering",
+          "studentID": "682315056",
+          "year": 3
+        },
+        {
+          "first": "Jongwoo",
+          "last": "Park",
+          "subject": "Architecture",
+          "studentID": "682315057",
+          "year": 2
+        },
+        {
+          "first": "Jisoo",
+          "last": "Kim",
+          "subject": "Early Childhood Learning",
+          "studentID": "682315058",
+          "year": 1
+        },
+        {
+          "first": "Hyemi",
+          "last": "Park",
+          "subject": "Hotel Food Management",
+          "studentID": "682315059",
+          "year": 2
+        },
+        {
+          "first": "Jisoo",
+          "last": "Park",
+          "subject": "Early Childhood Learning",
+          "studentID": "682315060",
+          "year": 2
+        },
+        {
+          "first": "Jiwoo",
+          "last": "Joo",
+          "subject": "Nursing",
+          "studentID": "682315061",
+          "year": 3
+        },
+        {
+          "first": "Jisoo",
+          "last": "Joo",
+          "subject": "Early Childhood Learning",
+          "studentID": "682315062",
+          "year": 2
+        },
+        {
+          "first": "Jongwoo",
+          "last": "Lee",
+          "subject": "Hospital Management",
+          "studentID": "682315063",
+          "year": 2
+        },
+        {
+          "first": "Nayeong",
+          "last": "Choi",
+          "subject": "Sports Rehabilitation",
+          "studentID": "682315064",
+          "year": 3
+        },
+        {
+          "first": "Hyeji",
+          "last": "Choi",
+          "subject": "Hospital Management",
+          "studentID": "682315065",
+          "year": 2
+        }
+      ]
+    }
+  ]
+}

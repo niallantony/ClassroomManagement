@@ -34,8 +34,9 @@
   height: 100%;
   width: 100%;
   flex: 1;
-  margin: 1rem 0;
-
+  margin: 0;
+  display:flex;
+  flex-direction: column;
 }
 
 h2 {
@@ -52,4 +53,20 @@ h2 {
   padding: 0.5rem 1rem;
   font-size: .8em;
   color: white;
+}
+
+.student-list {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px,1fr));
+  margin:1rem;
+  padding:0;
+  overflow-y: scroll;
+  height:min(fit-content,100%);
+}
+
+.classroom-name {
+  text-align: left;
+  padding-left: 2rem;
+  margin-bottom: 0;
 }

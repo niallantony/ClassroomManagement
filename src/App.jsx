@@ -21,9 +21,9 @@ function App() {
           <Link key={classroom.key} to={`classroom/${classroom.key}`} className="room-link">{classroom.name}</Link>
         ))}
       </Sidebar>
-      <div id='viewport'>
+      <main id='viewport'>
         <Outlet />
-      </div>
+      </main>
     </div>
   )
 }
